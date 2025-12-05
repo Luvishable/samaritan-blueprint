@@ -16,9 +16,9 @@
     gibi event’ler üretilip audit-service’e gönderilebilir. 
     
 
-[KEYCLOAK](2)%20Keycloak%20+%20Auth%20Service/KEYCLOAK%202be0faf2fb12801e9b22d5bfeae1d757.md)
+[KEYCLOAK](Keycloak_+_Auth_Service/Keycloak_Explanation.md)
 
-[RATE-LIMIT](2)%20Keycloak%20+%20Auth%20Service/RATE-LIMIT%202be0faf2fb128042b3a3c68fc7c26a38.md)
+[RATE-LIMIT](../Rate_Limit_Uygulanması.md)
 
 ---
 

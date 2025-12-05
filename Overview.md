@@ -38,17 +38,17 @@
 
 ### Mimari ve Uygulamada Kullanılan Araçlar
 
-[Mikroservisler ve Modüller](PROJECT%20SAMARITAN/Mikroservisler%20ve%20Mod%C3%BCller%202be0faf2fb1280a3bb5cc257b73472ff.md)
+[Mikroservisler ve Modüller](Sections/Mikroservisler_ve_Mod%C3%BCller.md)
 
-[Rate Limit Uygulanması](PROJECT%20SAMARITAN/Rate%20Limit%20Uygulanmas%C4%B1%202bf0faf2fb1280c5b661f2fcbc881feb.md)
+[Rate Limit Uygulanması](Sections/Rate_Limit_Uygulanmas%C4%B1.md)
 
-[Metadata DB](PROJECT%20SAMARITAN/Metadata%20DB%202bf0faf2fb1280a39c8dd78e0d022cec.md)
+[Metadata DB](Sections/Metadata_DB.md)
 
-[Redis](PROJECT%20SAMARITAN/Redis%202bf0faf2fb128008b2ebee6f5e0a8b56.md)
+[Redis](Sections/Redis.md)
 
-[Onboarding Wizard ](PROJECT%20SAMARITAN/Onboarding%20Wizard%202bf0faf2fb128015a337ed92ede543e3.md)
+[Onboarding Wizard ](Sections/Onboarding_Wizard.md)
 
-[Kafka](PROJECT%20SAMARITAN/Kafka%202bf0faf2fb1280728f04c6f0afb183be.md)
+[Kafka](Sections/Kafka.md)
 
 ---
 

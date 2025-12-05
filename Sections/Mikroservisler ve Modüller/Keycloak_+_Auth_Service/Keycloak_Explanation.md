@@ -58,8 +58,8 @@ Yani kullanıcılar, roller, token login/logout, Multi-Factor Authentication gib
 
 ### 6) Kavramlar ve Açıklamaları
 
-[**NOT: TOTP nedir?**](KEYCLOAK/NOT%20TOTP%20nedir%202be0faf2fb1280b18e1cdbc85c3fa55a.md)
+[**NOT: TOTP nedir?**](KEYCLOAK/NOT_TOTP_nedir.md)
 
-[**NOT: Realm ve Client Kavramları**](KEYCLOAK/NOT%20Realm%20ve%20Client%20Kavramlar%C4%B1%202be0faf2fb128088b3bfdbe381c6b8fc.md)
+[**NOT: Realm ve Client Kavramları**](KEYCLOAK/NOT_Realm_ve_Client_Kavramları.md)
 
-[Token Saklama](KEYCLOAK/Token%20Saklama%202be0faf2fb12807e8f27c12c70c44e8c.md)
+[Token Saklama](KEYCLOAK/Token_Saklama.md)

@@ -24,14 +24,14 @@
 
 ---
 
-[catalog schema](Metadata%20DB/catalog%20schema%202bf0faf2fb1280f2b3f1c982245c6513.md)
+[catalog schema](Metadata%20DB/catalog_schema.md)
 
-[context schema](Metadata%20DB/context%20schema%202bf0faf2fb128007b245f188a7e5cf41.md)
+[context schema](Metadata%20DB/context_schema.md)
 
-[schedular schema](Metadata%20DB/schedular%20schema%202bf0faf2fb1280f6b02ddb0c65068aa8.md)
+[schedular schema](Metadata%20DB/schedular_schema.md)
 
-[audit schema](Metadata%20DB/audit%20schema%202bf0faf2fb12802e8d6ffd8ebd5379d0.md)
+[audit schema](Metadata%20DB/audit_schema.md)
 
-[config schema](Metadata%20DB/config%20schema%202bf0faf2fb128045b46ac2cfef2a20a3.md)
+[config schema](Metadata%20DB/config_schema.md)
 
-[auth schema](Metadata%20DB/auth%20schema%202bf0faf2fb128026ad4ffebbe3cb2086.md)
+[auth schema](Metadata%20DB/auth_schema.md)
