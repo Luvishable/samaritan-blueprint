@@ -2,7 +2,7 @@
 
 > *Samaritan*: Yardımsever*.* 
 
-Şirketlerin; iş süreçlerinde hızlı ama tutarlılıktan taviz vermeden, verilerine doğal dilde sordukları sorular ile erişebilmelerini ve sonuçları daha iyi okuyabilmeleri için veriyi modern araçlarla görselleştiren ve en önemlisi de tüm bu süreçlerde hiçbir 3. parti yazılıma veri sızdırmayan, **AI-native** bir proje.
+Şirketlerin; iş süreçlerinde hızlı ama tutarlılıktan taviz vermeden, verilerine doğal dilde sordukları sorular ile erişebilmelerini ve sonuçları daha iyi okuyabilmeleri için veriyi modern araçlarla görselleştirebilmelerini sağlayan ve en önemlisi de tüm bu süreçlerde hiçbir 3. parti yazılıma veri sızdırmayan, **AI-native** bir proje.
 > 
 
 ---

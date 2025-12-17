@@ -7,7 +7,7 @@
     - Golden examples(soru-sql çiftleri)
     - Kullanıcı feedback’leri
     - Favori sorgular
-- nlp2qql-Service tarafından çağrıldığında tenant + soru bağlamına göre:
+- nlp2sql-Service tarafından çağrıldığında tenant + soru bağlamına göre:
     - Vektör DB’den:
         - ilgili *schema parçaları (*table/view/column)
         - İlgili golden examples’lar
