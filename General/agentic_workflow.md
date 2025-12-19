@@ -416,6 +416,16 @@ Bu node’dan sonra frontend cevabı gösterir, yeni user mesajı geldiğinde d�
 
 ---
 
+## UX ve İdempotency Notları
+
+- **Sorgula butonu:** Kullanıcı sorgu gönderdikten sonra `RESPONSE_READY` (veya hata) olana kadar UI’de “Sorgula” butonu disabled kalmalı; çift tıklamayla aynı isteğin tekrarlanması önlenir.
+- **Idempotency için request_id:** İsteklerde (sorgu, export, grafik) opsiyonel `request_id`/`Idempotency-Key` taşınabilir; backend aynı `request_id` ile gelen tekrarlara daha önceki sonucu döndürür, usage sayaçları iki kez artmaz.
+- **Satır verisi saklama:** Row data metadata DB/Redis’te tutulmaz; tekrar çizim gerekirse SQL yeniden çalıştırılır.
+- **Timeout/limit sınırları:** Tekrar denemelerde (teknik retry) zaman aşımı kademeli artırılır; usage artışı yalnızca başarılı çalıştırmada yapılmalıdır.
+- **Query/Grafik/Export idempotency:** Query, grafik ve export uçları `request_id` kabul eder; aynı `request_id` ile gelen tekrarlarda mevcut sonuç döndürülür veya job durumu raporlanır, yeni DB çalıştırması/usage artışı yapılmaz.
+
+---
+
 ## 4. LLM’in Intent Routing’e Yardımı
 
 ### 4.1. IntentRouter system prompt mantığı
