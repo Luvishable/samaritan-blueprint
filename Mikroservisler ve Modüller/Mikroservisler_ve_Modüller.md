@@ -39,3 +39,5 @@ Multi-tenant, mikroservis tabanlı, event-driven yapıya sahip olacak uygulamam�
 [12) Audit Service](Mikroservisler%20ve%20Mod%C3%BCller/Audit_Service.md)
 
 [13) Schema Cache Worker](Mikroservisler%20ve%20Mod%C3%BCller/Schema_Cache_Worker.md)
+
+[Subscription Service](Mikroservisler%20ve%20Mod%C3%BCller/Subscription_Service.md)

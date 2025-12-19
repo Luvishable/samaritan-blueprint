@@ -31,6 +31,7 @@ Bu dosya, ileride eklemeyi planladığımız iki kritik özelliğin ayrıntılı
 - **Schema/rule versiyonu değişirse** cache yok sayılır.
 - **Policy değişirse** (PII/izin değişimi) SqlGuard yeniden koşulur; fail olursa cache kullanma.
 - **Timeout veya DB hatası yaşanırsa** cache kullanılmaz; teknik retry normal akışta devam eder.
+- **Satır verisi tutma:** `table_result` veya satır verisi Redis’e veya metadata DB’ye konmaz; yalnızca SQL ve RAG referansları tutulur. Grafik/yeniden çalıştırma gerektiğinde SQL yeniden çalıştırılır.
 
 ### Güvenlik
 - Sadece SELECT-only SQL’ler saklanır.
